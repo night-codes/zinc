@@ -6,7 +6,7 @@ require (
 	github.com/blugelabs/bluge v0.1.8
 	github.com/blugelabs/query_string v0.2.0
 	github.com/gin-contrib/cors v1.3.1
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-playground/validator/v10 v10.9.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/uuid v1.3.0
